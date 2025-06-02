@@ -1,0 +1,2 @@
+track name="DmelGenes" description="D. melanogaster genes" visibility=2 type=gtf 
+https://raw.githubusercontent.com/k-kitrick/kohwi_lab_database/refs/heads/main/formatted-dmel-genes-only.gtf
