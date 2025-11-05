@@ -3,6 +3,12 @@ This repository provides code for the Kohwi Lab HiC Database. This database was 
 
 The database was produced by 4 students in Boston University's Master in Bioinformatics Program: Sydney Sorbello, Katie Kitrick, Dhruvi Joshi, and Sofiya Patra. 
 
+## Video Tutorial
+
+Walkthrough video tutorial available here:
+
+https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/tree/main/website_screenshots
+
 ## Application Tabs / Features
 
 The web application consists of five main tabs:
@@ -34,9 +40,3 @@ Database query is made easy through drop down boxes containing sample and genomi
 The Generate Plot feature seemlessly visualizes a Hi-C Matrix given the input parameters:
 
 ![HiC_Matrix_Example](https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/blob/main/app/static/plots/Generate_Plot_Example.png?raw=true)
-
-## Video Tutorial
-
-Walkthrough video tutorial available here:
-
-https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/tree/main/website_screenshots
