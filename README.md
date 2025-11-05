@@ -23,9 +23,20 @@ Below is a screenshot of the website Home Page:
 
 ![Home Page Screenshot](https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/blob/main/app/static/plots/Home_Page_Screenshot.png?raw=true)
 
+## SQL Query Interface
 
-## Tutorial + Screenshots
+Database query is made easy through drop down boxes containing sample and genomic location selection:
 
-Walkthrough screenshots are available here:
+![SQL_Query_Interface](https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/blob/main/app/static/plots/SQL_Query_Interface.png?raw=true)
+
+## Visualization of Hi-C Matrix
+
+The Generate Plot feature seemlessly visualizes a Hi-C Matrix given the input parameters:
+
+![HiC_Matrix_Example](https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/blob/main/app/static/plots/Generate_Plot_Example.png?raw=true)
+
+## Video Tutorial
+
+Walkthrough video tutorial available here:
 
 https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/tree/main/website_screenshots
