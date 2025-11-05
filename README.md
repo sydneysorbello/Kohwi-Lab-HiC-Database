@@ -3,4 +3,29 @@ This repository provides code for the Kohwi Lab HiC Database. This database was 
 
 The database was produced by 4 students in Boston University's Master in Bioinformatics Program: Sydney Sorbello, Katie Kitrick, Dhruvi Joshi, and Sofiya Patra. 
 
-**Check out the website tutorial here:** https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/tree/main/website_screenshots
+## Application Tabs / Features
+
+The web application consists of five main tabs:
+
+Welcome — Overview of the database purpose, lab information, and developer team.
+
+Hi-C — Direct interaction with the SQL database storing Hi-C interaction data. Users can submit queries, download resulting data as CSV, visualize contact matrices, and generate interaction frequency plots.
+
+Genome — Embedded UCSC Genome Browser for Drosophila genome visualization and exploration.
+
+Help — Instructions on how to use the database, run queries, and interpret outputs.
+
+Login / Admin — Authenticated upload/edit interface for lab members to add or modify experimental datasets.
+
+## Home Page Example
+
+Below is a screenshot of the website Home Page:
+
+![Home Page Screenshot](https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/blob/main/app/static/plots/Home_Page_Screenshot.png?raw=true)
+
+
+## Tutorial + Screenshots
+
+Walkthrough screenshots are available here:
+
+https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/tree/main/website_screenshots
