@@ -3,3 +3,4 @@ This repository provides code for the Kohwi Lab HiC Database. This database was 
 
 The database was produced by 4 students in Boston University's Master in Bioinformatics Program: Sydney Sorbello, Katie Kitrick, Dhruvi Joshi, and Sofiya Patra. 
 
+**Check out the website tutorial here:** https://github.com/sydneysorbello/Kohwi-Lab-HiC-Database/tree/main/website_screenshots
